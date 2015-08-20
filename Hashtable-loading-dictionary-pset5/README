@@ -1,0 +1,7 @@
+Makes a spellchecker that can be used to check text in files for spelling errors.
+
+Speller.c is the main program and is run alongside the address of a dictionary to load and a text to spellcheck.
+
+Dictionary.c is the program which loads the dictionary using a hashtable and checks words against the hashtable.
+
+Dictionary.h are helper functions for dictionary.c and speller.c
