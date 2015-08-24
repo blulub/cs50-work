@@ -1,3 +1,3 @@
 # cs50-work
 
-Games and interesting things made from cs50x
+Interesting things made from cs50x online course from Edx.org
